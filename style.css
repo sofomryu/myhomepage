@@ -1,0 +1,24 @@
+.hidden {
+	display:none;}
+	
+.clock {
+	font-weight:bold;
+	text-align:center;}
+.weather {
+	font-weight: bold;
+	text-align:center;}
+
+.todo {font-weight: bold;
+	text-align:center;
+	font-size:50px;
+margin:auto;
+padding-top:50px;
+width:10%;
+
+}
+
+
+.login {text-align:center;
+margin:50px;}
+
+
